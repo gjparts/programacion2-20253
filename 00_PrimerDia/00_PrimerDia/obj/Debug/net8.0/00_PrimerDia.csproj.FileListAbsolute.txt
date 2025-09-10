@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\bin\Debug\net8.0\00_PrimerDia.exe
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\bin\Debug\net8.0\00_PrimerDia.deps.json
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\bin\Debug\net8.0\00_PrimerDia.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\bin\Debug\net8.0\00_PrimerDia.dll
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\bin\Debug\net8.0\00_PrimerDia.pdb
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.dll
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\refint\00_PrimerDia.dll
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.pdb
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\00_PrimerDia.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\00_PrimerDia\00_PrimerDia\obj\Debug\net8.0\ref\00_PrimerDia.dll
