@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "00_PrimerDia\\Program.cs",
               "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\00_PrimerDia\\00_PrimerDia\\Program.cs",
               "RelativeToolTip": "00_PrimerDia\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAUwDQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T16:21:27.369Z",
               "EditorCaption": ""
