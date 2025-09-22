@@ -63,6 +63,94 @@
             long valorx = 1234123412345678912L;
             //debe colocar L al final de un valor Long para que no sea considerado int
             Console.WriteLine(valorx);
+
+            //Tipo de dato char: almacena un caracter
+            //su tamaño es de 1 byte (8 bit)
+            char c1 = 'g';
+            char c2 = '/';
+            //si usa caracter slash inverso debe ponerlo doble; pero solo se almacena uno
+            char c3 = '\\';
+            Console.WriteLine("El valor de c1 es "+c1);
+            Console.WriteLine($"El valor de c2 es {c2}");
+            Console.WriteLine($"El valor de c3 es {c3}");
+
+            //Tipo de dato bool (Boolean en honor a George Boole)
+            //su tamaño es de 1 bit (true = 1, false = 0)
+            bool respuesta = true;
+            Console.WriteLine($"La respuesta es {respuesta}");
+            respuesta = false;
+            Console.WriteLine($"La respuesta es {respuesta}");
+
+            //una expresion de comparacion puede devolver un valor booleano
+            bool evaluacion;
+            int e1 = 3, e2 = 9;
+            evaluacion = e1 > e2;
+            Console.WriteLine($"El valor de evaluacion es {evaluacion}");
+
+            /*Ley de precedencia de operadores
+             Las expresiones deben de evaluarse de izquierda a derecha dando prioridad
+            a las operaciones de acuerdo a la tabla siguiente:
+            1) Parentesis ()
+            2) Exponentes Math.Pow
+            3) Multiplicaciones y Divisiones * /
+            4) Sumas y Restas + -
+            5) Operador logico NOT !
+            6) Operador logico AND &&
+            7) Operador logico OR  ||  (caracter 124)
+             */
+            double d1 = 5, d2 = 9, d3 = 2, d4 = 10;
+            Console.WriteLine(d1+d2/d3);
+            Console.WriteLine((d1+d2)/d3);
+            Console.WriteLine((d1-d2)/(d3+d4)*d1);
+
+            //Concatenacion: unir dos elementos y transformarlos en un solo String
+            //el operador para concatenar es el operador +
+            //el cual esta sobrecargado, o sea cumple una doble funcion
+            //-> si suma dos valores numericos entonces el resultado va a ser
+            //   la operacion aritmetica suma.
+            //-> si suma un String con otro valor entonces el resultado va a ser
+            //   la operacion de concatenar.
+            //Concatenar los valores de las variables con String
+            int mes = 9;
+            //Concatenar usando el operador de suma
+            Console.WriteLine("El mes es " + mes);
+            //Concatenar usando interpolacion de cadenas
+            Console.WriteLine($"El mes es {mes}");
+
+            int entero1 = 2, entero2 = 4;
+            Console.WriteLine("La suma de entero1 y entero2 es " + entero1 + entero2);
+            //dos soluciones:
+            Console.WriteLine("La suma de entero1 y entero2 es " + (entero1 + entero2));
+            Console.WriteLine($"La suma de entero1 y entero2 es {entero1 + entero2}");
+
+            //Comportamiento con el tipo char
+            char char1 = 'A', char2 = 'B';
+            Console.WriteLine(char1+char2);
+            //deberia imprimir AB pero en su lugar imprimio 131, porque?
+            //cuando suma dos elementos char lo que se toma es el valor numerico
+            //de cada caracter, en Windows los caracteres toman su numero de una
+            //tabla conocida como ASCII (American Standard Code for Information Interchange)
+            //en ASCII la A vale 65 y la B vale 66 su suma es 131.
+            //Para evitar que se sumen los valores de los char puede hacer lo siguiente:
+            Console.WriteLine(""+char1+char2); //forma 1
+            Console.WriteLine($"{char1}{char2}"); //forma 2
+
+            //No olviden que el operador SUMA esta sobrecargado en aquellos
+            //lenguajes basados en C:
+            //String+valor = String
+            //valor+String = String
+            //valor+valor = valor
+            float ff1 = 4, ff2 = 3;
+            Console.WriteLine("La suma de "+ff1+" mas "+ff2+" es "+ff1+ff2);
+            //se evita usando parentesis en la operacion:
+            Console.WriteLine("La suma de " + ff1 + " mas " + ff2 + " es " + (ff1 + ff2));
+            //que pasa con otras operaciones? Debe de poner la operacion en parenteis
+            Console.WriteLine("La resta de " + ff1 + " menos " + ff2 + " es " + (ff1 - ff2));
+            //lo mejor es usar interpolacion de cadenas:
+            Console.WriteLine($"La suma de {ff1} mas {ff2} es {ff1+ff2}");
+            Console.WriteLine($"La resta de {ff1} menos {ff2} es {ff1 - ff2}");
+
+            //funciones matematicas en C#
         }
     }
 }
