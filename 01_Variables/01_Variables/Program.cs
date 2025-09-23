@@ -151,6 +151,76 @@
             Console.WriteLine($"La resta de {ff1} menos {ff2} es {ff1 - ff2}");
 
             //funciones matematicas en C#
+            //C# incluye una clase estatica llamada Math que tiene metodos similares a los de la clase cmath de C++
+            
+            //Sqrt: Square root, devuelve la raiz cuadrada de un numero
+            double valor1 = 25;
+            Console.WriteLine($"La raiz cuadrada de {valor1} es {Math.Sqrt(valor1)}");
+            valor1 = Math.Sqrt(89);
+            Console.WriteLine(valor1);
+
+            //Pow: eleva un numero base a determinado exponente.
+            double valor2 = 9;
+            Console.WriteLine($"{valor2} elevado al cuadrado es {Math.Pow(valor2,2)}");
+            double potencia = Math.Pow(2,5); // 2 elevado a la quinta potencia
+            Console.WriteLine(potencia);
+
+            //Puede usar Pow para calcular raices
+            //Raiz cubica de 27:
+            double valor3 = 27;
+            potencia = Math.Pow(valor3, 1.0/3.0);
+            //Importante: elevar a una fraccion produce una raiz; pero esta fraccion
+            //debe estar representada en numeros double, para ello en lugar de colocar 1/3
+            //se debe colocar 1.0/3.0 para no perder precision, puesto que 1/3 es division entera
+            //en cambio 1.0/3.0 es division de doubles en C#, Java y C++
+            Console.WriteLine($"Raiz cubica de {valor3} es {potencia}");
+            Console.WriteLine($"La division entera de 1/3 es {1/3}"); //0
+            Console.WriteLine($"La division de 1.0/3.0 es {1.0/3.0}"); //0.33333333
+
+            //Math ofreece algunas constantes populares:
+            Console.WriteLine($"El valor de pi es {Math.PI}");
+            Console.WriteLine($"El valor de E es {Math.E}");
+
+            //Calculo de logaritmos
+            double valor4 = 2;
+            Console.WriteLine($"El logaritmo natural de {valor4} es {Math.Log(valor4)}");
+            Console.WriteLine($"El logaritmo base 10 de {valor4} es {Math.Log10(valor4)}");
+
+            //Round: permite redondear un numero
+            double valor5 = 3.32, valor6 = 7.5, valor7 = 4.000005, valor8 = 6, valor9 = 2.78;
+            //si no le pone un segundo parametro redondea al entero proximo si la parte decimal
+            //es >= 0.5
+            Console.WriteLine($"Round de {valor5} es {Math.Round(valor5)}");
+            Console.WriteLine($"Round de {valor6} es {Math.Round(valor6)}");
+            Console.WriteLine($"Round de {valor7} es {Math.Round(valor7)}");
+            Console.WriteLine($"Round de {valor8} es {Math.Round(valor8)}");
+            Console.WriteLine($"Round de {valor9} es {Math.Round(valor9)}");
+
+            //se puede agregar un segundo parametro a Round
+            //para determinar los decimales de precision en el redondeo
+            double valor10 = 3.45356745;
+            Console.WriteLine($"Round de {valor10} a 2 decimales es {Math.Round(valor10,2)}");
+            Console.WriteLine($"Round de {valor10} a 4 decimales es {Math.Round(valor10, 4)}");
+            Console.WriteLine($"Round de {valor10} a 1 decimal es {Math.Round(valor10, 1)}");
+            Console.WriteLine($"Round de {valor10} a 6 decimales es {Math.Round(valor10, 6)}");
+
+            //Ceiling: devuelve el proximo entero del valor enviado aunque no cumpla
+            //con las reglas de redondeo.
+            Console.WriteLine($"Ceiling de {valor5} es {Math.Ceiling(valor5)}");
+            Console.WriteLine($"Ceiling de {valor6} es {Math.Ceiling(valor6)}");
+            Console.WriteLine($"Ceiling de {valor7} es {Math.Ceiling(valor7)}");
+            Console.WriteLine($"Ceiling de {valor8} es {Math.Ceiling(valor8)}");
+            Console.WriteLine($"Ceiling de {valor9} es {Math.Ceiling(valor9)}");
+
+            //Floor: devuelve la parte entera de un numero
+            Console.WriteLine($"Floor de {valor5} es {Math.Floor(valor5)}");
+            Console.WriteLine($"Floor de {valor6} es {Math.Floor(valor6)}");
+            Console.WriteLine($"Floor de {valor7} es {Math.Floor(valor7)}");
+            Console.WriteLine($"Floor de {valor8} es {Math.Floor(valor8)}");
+            Console.WriteLine($"Floor de {valor9} es {Math.Floor(valor9)}");
+
+            //ejemplo:
+            Console.WriteLine($"La parte decimal de {valor5} es {Math.Round(valor5-Math.Floor(valor5),2)}");
         }
     }
 }
