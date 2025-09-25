@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2025-3\\Programacion II\\02_Captura1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D147D5-5FBC-4908-BEA1-A148538B622F}|02_Captura1\\02_Captura1.csproj|c:\\programas unah\\2025-3\\programacion ii\\02_captura1\\02_captura1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D147D5-5FBC-4908-BEA1-A148538B622F}|02_Captura1\\02_Captura1.csproj|solutionrelative:02_captura1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion II\\02_Captura1\\02_Captura1\\Program.cs",
+              "RelativeDocumentMoniker": "02_Captura1\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion II\\02_Captura1\\02_Captura1\\Program.cs",
+              "RelativeToolTip": "02_Captura1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:41:48.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

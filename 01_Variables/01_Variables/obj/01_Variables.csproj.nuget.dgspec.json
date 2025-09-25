@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj": {}
+    "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj": {}
   },
   "projects": {
-    "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj": {
+    "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj",
+        "projectUniqueName": "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj",
         "projectName": "01_Variables",
-        "projectPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj",
+        "projectPath": "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\01_Variables.csproj",
         "packagesPath": "C:\\Users\\Gerardo\\.nuget\\packages\\",
-        "outputPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\obj\\",
+        "outputPath": "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Gerardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

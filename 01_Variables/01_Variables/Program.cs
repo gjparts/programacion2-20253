@@ -221,6 +221,63 @@
 
             //ejemplo:
             Console.WriteLine($"La parte decimal de {valor5} es {Math.Round(valor5-Math.Floor(valor5),2)}");
+
+            //Conversiones
+            //para guardar texto se usa el tipo de dato String
+            String str = "Honduras";
+            //en C# String puede escribirse tambien en minuscula: string
+            string str2 = "SPS";
+
+            //Si en un String hay numeros, estos pueden convertirse a su tipo primitivo
+            String str1 = "123";
+            int entero = int.Parse(str1);
+            Console.WriteLine(str1);
+            Console.WriteLine(entero);
+
+            //otras conversiones
+            double dd1;
+            String str3 = "3.1416";
+            dd1 = double.Parse(str3);
+            Console.WriteLine(dd1);
+
+            float fl1;
+            String str4 = "2.24";
+            fl1 = float.Parse(str4);
+            Console.WriteLine(fl1);
+
+            //cualquier dato numerico a String
+            int entero11 = 78;
+            double dd2 = 56.7887654;
+            float fl2 = 7.676f;
+            String str5;
+            str5 = entero11.ToString();
+            Console.WriteLine(str5);
+            Console.WriteLine(dd2.ToString());
+            String str6 = fl2.ToString();
+            Console.WriteLine(fl2);
+
+            //Constantes: es un valor almacenado en la memoria que permanece inalterable
+            const long velocidadLuz = 299792458;
+            //velocidadLuz = 5; //esto no se puede
+            Console.WriteLine($"La velocidad de la luz es {velocidadLuz}");
+
+            const double gravedadTierra = 9.8;
+            double masa = 90; //Kg
+            Console.WriteLine($"Mi peso es {masa*gravedadTierra} Newton");
+
+            //tipo de dato Variant
+            /*Permite declarar una variable que va a adoptar el tipo de dato
+             de acuerdo al valor que le asignemos en su inializacion.
+            IMPORTANTE:
+            1) Es considerado una mala practica; pero hay personas que lo usan
+            2) Debe de inicializarse en la declaracion de la variable*/
+            var algo = 8.8;
+            Console.WriteLine($"El tipo de dato de algo es {algo.GetType()}");
+            var otro = "Gerardo";
+            Console.WriteLine($"El tipo de dato de otro es {otro.GetType()}");
+            //una vez inicializado un tipo Variant no puede cambiarse a otro tipo
+            var pais = "Honduras";
+            //pais = 123; //esto no se puede
         }
     }
 }

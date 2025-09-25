@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\",
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A64A5E5B-8015-4E73-9F61-3FFB11B080CE}|01_Variables\\01_Variables.csproj|p:\\programas unah\\2025-3\\programacion ii\\01_variables\\01_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A64A5E5B-8015-4E73-9F61-3FFB11B080CE}|01_Variables\\01_Variables.csproj|c:\\programas unah\\2025-3\\programacion ii\\01_variables\\01_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64A5E5B-8015-4E73-9F61-3FFB11B080CE}|01_Variables\\01_Variables.csproj|solutionrelative:01_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\Program.cs",
               "RelativeDocumentMoniker": "01_Variables\\Program.cs",
-              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion II\\01_Variables\\01_Variables\\Program.cs",
               "RelativeToolTip": "01_Variables\\Program.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAqwN4AAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAIwBQBAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T16:17:54.23Z",
               "EditorCaption": ""
