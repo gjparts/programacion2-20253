@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\bin\Debug\net8.0\06_Captura5.exe
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\bin\Debug\net8.0\06_Captura5.deps.json
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\bin\Debug\net8.0\06_Captura5.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\bin\Debug\net8.0\06_Captura5.dll
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\bin\Debug\net8.0\06_Captura5.pdb
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.dll
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\refint\06_Captura5.dll
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.pdb
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\06_Captura5.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\06_Captura5\06_Captura5\obj\Debug\net8.0\ref\06_Captura5.dll

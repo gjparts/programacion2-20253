@@ -15,7 +15,7 @@
                 Console.Write("Digite c: ");
                 c = Double.Parse(Console.ReadLine());
 
-                //Validacion: Si a es CERO
+                //Validacion: Si a es CERO (instruccion de proteccion/guard clause)
                 if( a == 0)
                 {
                     Console.WriteLine("a no puede ser cero.");
@@ -26,8 +26,8 @@
                 double discriminante, x1, x2;
                 discriminante = Math.Pow(b, 2) - 4 * a * c;
 
-                //Validacion: Si discriminante es negativo
-                if( discriminante < 0)
+                //Validacion: Si discriminante es negativo (instruccion de proteccion)
+                if ( discriminante < 0)
                 {
                     Console.WriteLine("discriminante negativo, revise sus valores.");
                     return; //termina el metodo o funcion actual
