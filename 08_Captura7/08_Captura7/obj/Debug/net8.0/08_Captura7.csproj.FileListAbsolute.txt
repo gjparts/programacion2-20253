@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\bin\Debug\net8.0\08_Captura7.exe
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\bin\Debug\net8.0\08_Captura7.deps.json
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\bin\Debug\net8.0\08_Captura7.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\bin\Debug\net8.0\08_Captura7.dll
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\bin\Debug\net8.0\08_Captura7.pdb
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.dll
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\refint\08_Captura7.dll
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.pdb
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\08_Captura7.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\08_Captura7\08_Captura7\obj\Debug\net8.0\ref\08_Captura7.dll

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programas UNAH\\2025-3\\Programacion II\\06_Captura5\\",
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\06_Captura5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF5FA769-D977-4EDA-AC11-093910D77381}|06_Captura5\\06_Captura5.csproj|c:\\programas unah\\2025-3\\programacion ii\\06_captura5\\06_captura5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF5FA769-D977-4EDA-AC11-093910D77381}|06_Captura5\\06_Captura5.csproj|p:\\programas unah\\2025-3\\programacion ii\\06_captura5\\06_captura5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF5FA769-D977-4EDA-AC11-093910D77381}|06_Captura5\\06_Captura5.csproj|solutionrelative:06_captura5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion II\\06_Captura5\\06_Captura5\\Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion II\\06_Captura5\\06_Captura5\\Program.cs",
               "RelativeDocumentMoniker": "06_Captura5\\Program.cs",
-              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion II\\06_Captura5\\06_Captura5\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\06_Captura5\\06_Captura5\\Program.cs",
               "RelativeToolTip": "06_Captura5\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T16:27:16.023Z",
               "EditorCaption": ""
