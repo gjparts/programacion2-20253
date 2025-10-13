@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2025-3\\Programacion II\\15_switch1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D281726-0AFB-4065-B1CC-A0F587FD7A02}|15_switch1\\15_switch1.csproj|c:\\programas unah\\2025-3\\programacion ii\\15_switch1\\15_switch1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D281726-0AFB-4065-B1CC-A0F587FD7A02}|15_switch1\\15_switch1.csproj|solutionrelative:15_switch1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion II\\15_switch1\\15_switch1\\Program.cs",
+              "RelativeDocumentMoniker": "15_switch1\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion II\\15_switch1\\15_switch1\\Program.cs",
+              "RelativeToolTip": "15_switch1\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:37:13.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

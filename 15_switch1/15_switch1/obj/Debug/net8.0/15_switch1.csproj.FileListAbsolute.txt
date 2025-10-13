@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\bin\Debug\net8.0\15_switch1.exe
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\bin\Debug\net8.0\15_switch1.deps.json
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\bin\Debug\net8.0\15_switch1.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\bin\Debug\net8.0\15_switch1.dll
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\bin\Debug\net8.0\15_switch1.pdb
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.dll
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\refint\15_switch1.dll
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.pdb
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\15_switch1.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\15_switch1\15_switch1\obj\Debug\net8.0\ref\15_switch1.dll

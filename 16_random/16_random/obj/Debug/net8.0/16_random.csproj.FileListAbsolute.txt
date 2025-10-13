@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\bin\Debug\net8.0\16_random.exe
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\bin\Debug\net8.0\16_random.deps.json
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\bin\Debug\net8.0\16_random.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\bin\Debug\net8.0\16_random.dll
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\bin\Debug\net8.0\16_random.pdb
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.dll
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\refint\16_random.dll
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.pdb
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\16_random.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\16_random\16_random\obj\Debug\net8.0\ref\16_random.dll

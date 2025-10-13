@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\bin\Debug\net8.0\14_if_and_or.exe
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\bin\Debug\net8.0\14_if_and_or.deps.json
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\bin\Debug\net8.0\14_if_and_or.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\bin\Debug\net8.0\14_if_and_or.dll
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\bin\Debug\net8.0\14_if_and_or.pdb
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.dll
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\refint\14_if_and_or.dll
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.pdb
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\14_if_and_or.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\14_if_and_or\14_if_and_or\obj\Debug\net8.0\ref\14_if_and_or.dll
