@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\bin\Debug\net8.0\18_for1.exe
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\bin\Debug\net8.0\18_for1.deps.json
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\bin\Debug\net8.0\18_for1.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\bin\Debug\net8.0\18_for1.dll
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\bin\Debug\net8.0\18_for1.pdb
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.dll
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\refint\18_for1.dll
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.pdb
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\18_for1.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\18_for1\18_for1\obj\Debug\net8.0\ref\18_for1.dll
