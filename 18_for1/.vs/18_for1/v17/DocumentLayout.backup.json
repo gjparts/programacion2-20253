@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programas UNAH\\2025-3\\Programacion II\\18_for1\\",
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\18_for1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A63B94A-2271-47CA-AFCE-D1372DD5E39A}|18_for1\\18_for1.csproj|c:\\programas unah\\2025-3\\programacion ii\\18_for1\\18_for1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A63B94A-2271-47CA-AFCE-D1372DD5E39A}|18_for1\\18_for1.csproj|p:\\programas unah\\2025-3\\programacion ii\\18_for1\\18_for1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A63B94A-2271-47CA-AFCE-D1372DD5E39A}|18_for1\\18_for1.csproj|solutionrelative:18_for1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion II\\18_for1\\18_for1\\Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion II\\18_for1\\18_for1\\Program.cs",
               "RelativeDocumentMoniker": "18_for1\\Program.cs",
-              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion II\\18_for1\\18_for1\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\18_for1\\18_for1\\Program.cs",
               "RelativeToolTip": "18_for1\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwF0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T16:34:22.771Z",
               "EditorCaption": ""
