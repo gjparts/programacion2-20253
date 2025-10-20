@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\bin\Debug\net8.0\21_for4.exe
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\bin\Debug\net8.0\21_for4.deps.json
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\bin\Debug\net8.0\21_for4.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\bin\Debug\net8.0\21_for4.dll
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\bin\Debug\net8.0\21_for4.pdb
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.dll
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\refint\21_for4.dll
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.pdb
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\21_for4.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\21_for4\21_for4\obj\Debug\net8.0\ref\21_for4.dll
