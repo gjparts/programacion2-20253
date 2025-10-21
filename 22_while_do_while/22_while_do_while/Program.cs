@@ -32,6 +32,32 @@
                 Console.WriteLine(j);
                 j++;
             } while (j <= 10);
+
+            //Diferencia entre while y do-while
+            /*Haga un programa que pregunte al usuario N cantidad de numeros
+             positivos. El programa va a terminar cuando se digite un numero
+            negativo.*/
+            //USANDO WHILE:
+            //si usa while la variable(s) de control debe inicializarse
+            float numero = 0;
+            Console.WriteLine("WHILE --------------------------------------");
+            while( numero >= 0 )
+            {
+                Console.Write("Digite numero positivo: ");
+                numero = float.Parse(Console.ReadLine());
+            }
+
+            //USANDO DO-WHILE
+            Console.WriteLine("DO-WHILE -------------------------------------");
+            double valor;
+            do
+            {
+                Console.Write("Digite numero positivo: ");
+                valor = double.Parse(Console.ReadLine());
+            } while (valor >= 0);
+            //Observe que valor no esta inicializado porque tomara su
+            //primer numero en la primera iteracion la cual siempre va
+            //a suceder ya que do-while hace al menos una iteracion siempre.
         }
     }
 }

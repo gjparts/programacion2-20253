@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\bin\Debug\net8.0\23_while.exe
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\bin\Debug\net8.0\23_while.deps.json
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\bin\Debug\net8.0\23_while.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\bin\Debug\net8.0\23_while.dll
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\bin\Debug\net8.0\23_while.pdb
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.dll
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\refint\23_while.dll
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.pdb
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\23_while.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\23_while\23_while\obj\Debug\net8.0\ref\23_while.dll
