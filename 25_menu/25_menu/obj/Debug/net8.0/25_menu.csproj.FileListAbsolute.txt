@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\bin\Debug\net8.0\25_menu.exe
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\bin\Debug\net8.0\25_menu.deps.json
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\bin\Debug\net8.0\25_menu.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\bin\Debug\net8.0\25_menu.dll
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\bin\Debug\net8.0\25_menu.pdb
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.dll
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\refint\25_menu.dll
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.pdb
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\25_menu.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\25_menu\25_menu\obj\Debug\net8.0\ref\25_menu.dll

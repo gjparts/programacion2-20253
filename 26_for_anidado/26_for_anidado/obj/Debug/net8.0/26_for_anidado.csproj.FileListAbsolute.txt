@@ -1,0 +1,15 @@
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\bin\Debug\net8.0\26_for_anidado.exe
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\bin\Debug\net8.0\26_for_anidado.deps.json
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\bin\Debug\net8.0\26_for_anidado.runtimeconfig.json
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\bin\Debug\net8.0\26_for_anidado.dll
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\bin\Debug\net8.0\26_for_anidado.pdb
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.AssemblyInfoInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.AssemblyInfo.cs
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.sourcelink.json
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.dll
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\refint\26_for_anidado.dll
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.pdb
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\26_for_anidado.genruntimeconfig.cache
+C:\Programas UNAH\2025-3\Programacion II\26_for_anidado\26_for_anidado\obj\Debug\net8.0\ref\26_for_anidado.dll

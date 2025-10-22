@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "26_for_anidado/1.0.0": {
+        "runtime": {
+          "26_for_anidado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "26_for_anidado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
