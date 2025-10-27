@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\bin\Debug\net8.0\28_Control_de_flujo.exe
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\bin\Debug\net8.0\28_Control_de_flujo.deps.json
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\bin\Debug\net8.0\28_Control_de_flujo.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\bin\Debug\net8.0\28_Control_de_flujo.dll
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\bin\Debug\net8.0\28_Control_de_flujo.pdb
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.dll
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\refint\28_Control_de_flujo.dll
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.pdb
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\28_Control_de_flujo.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\28_Control_de_flujo\28_Control_de_flujo\obj\Debug\net8.0\ref\28_Control_de_flujo.dll
