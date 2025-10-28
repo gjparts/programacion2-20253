@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\bin\Debug\net8.0\30_arreglos.exe
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\bin\Debug\net8.0\30_arreglos.deps.json
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\bin\Debug\net8.0\30_arreglos.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\bin\Debug\net8.0\30_arreglos.dll
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\bin\Debug\net8.0\30_arreglos.pdb
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.dll
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\refint\30_arreglos.dll
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.pdb
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\30_arreglos.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\30_arreglos\30_arreglos\obj\Debug\net8.0\ref\30_arreglos.dll
