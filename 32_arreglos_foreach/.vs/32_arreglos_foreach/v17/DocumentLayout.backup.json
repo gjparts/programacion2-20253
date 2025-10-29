@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\32_arreglos_foreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C4DF4-5101-4A75-BBBB-4044B373443B}|32_arreglos_foreach\\32_arreglos_foreach.csproj|p:\\programas unah\\2025-3\\programacion ii\\32_arreglos_foreach\\32_arreglos_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C4DF4-5101-4A75-BBBB-4044B373443B}|32_arreglos_foreach\\32_arreglos_foreach.csproj|solutionrelative:32_arreglos_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion II\\32_arreglos_foreach\\32_arreglos_foreach\\Program.cs",
+              "RelativeDocumentMoniker": "32_arreglos_foreach\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\32_arreglos_foreach\\32_arreglos_foreach\\Program.cs",
+              "RelativeToolTip": "32_arreglos_foreach\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:47:02.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

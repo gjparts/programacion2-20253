@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\bin\Debug\net8.0\32_arreglos_foreach.exe
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\bin\Debug\net8.0\32_arreglos_foreach.deps.json
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\bin\Debug\net8.0\32_arreglos_foreach.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\bin\Debug\net8.0\32_arreglos_foreach.dll
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\bin\Debug\net8.0\32_arreglos_foreach.pdb
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.dll
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\refint\32_arreglos_foreach.dll
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.pdb
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\32_arreglos_foreach.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\32_arreglos_foreach\32_arreglos_foreach\obj\Debug\net8.0\ref\32_arreglos_foreach.dll
