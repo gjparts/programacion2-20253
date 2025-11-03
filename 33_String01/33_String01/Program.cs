@@ -54,7 +54,7 @@
             Console.WriteLine(s5);
             Console.WriteLine($"Longitud de s5: {s5.Length}");
 
-            //cada caracter en un String puede ser accedido algo similar
+            //en C#: cada caracter en un String puede ser accedido algo similar
             //a como se hace en los Array; pero recuerde que un String no es un Array
             //los char dentro de un String se numeran de 0 a Lenght-1 (Zero Indexing)
             //ejemplo:
@@ -72,6 +72,91 @@
             {
                 Console.WriteLine(comida[i]);
             }
+
+            //en C#, no es posible modificar un char dentro de un String usando []
+            //esto se debe a que en C# lo char en cada String son inmutables.
+            //comida[1] = 'X';
+
+            //Transformaciones de String
+            /*Obtener la version en mayusculas ó en minusculas de un String*/
+            String ciudad = "San Pedro Sula";
+            Console.WriteLine($"ciudad en mayusculas: {ciudad.ToUpper()}");
+            Console.WriteLine($"ciudad en minusculas: {ciudad.ToLower()}");
+            Console.WriteLine($"ciudad, String original: {ciudad}");
+            //ToUpper y ToLower son metodos que no alterar el String original sino que
+            //devuelven un String que es una version en mayusc./minusc. del String original
+
+            //Si desea alterar el String original; entonces lo que debe hacer es sobre escribir
+            //la variable con su version en mayusculas ó en minusculas:
+            ciudad = ciudad.ToUpper();
+            Console.WriteLine($"ciudad, String original: {ciudad}");
+
+            ciudad = ciudad.ToLower();
+            Console.WriteLine($"ciudad, String original: {ciudad}");
+
+            /*método Trim
+            develve una versión del String; pero sin los espacios iniciales y finales que tambien
+            les conocemos como espacios de relleno.
+            -> Este metodo no afecta al String original.*/
+            String juguete = "         Figura de Accion                   ";
+            Console.WriteLine($"juguete, String original: {juguete}.");
+            Console.WriteLine($"Longitud de juguete: {juguete.Length}");
+            //impresion aplicando Trim
+            Console.WriteLine($"juguete, aplicando Trim: {juguete.Trim()}.");
+            Console.WriteLine($"Longitud de juguete: {juguete.Trim().Length}");
+            //habrá afectado al String original?
+            Console.WriteLine($"juguete, String original: {juguete}.");
+            //si quiere que Trim afecte al String original:
+            juguete = juguete.Trim();
+            Console.WriteLine($"juguete, String original: {juguete}.");
+
+            String platillo = "      Pizza Super Suprema            ";
+            /*Ejerjcio: imprima la variable platillo; pero sin relleno de espacios toda en mayusculas
+             y sin alterar a la variable original usando una sola instruccion.*/
+            Console.WriteLine(platillo.ToUpper().Trim()); //forma 1
+            Console.WriteLine(platillo.Trim().ToUpper()); //forma 2
+
+            //Concatenar valores char a un String
+            String carro = "Honda CRV 2016";
+            //concatenar char sin afectar la variable original
+            Console.WriteLine(carro+'X');
+            Console.WriteLine($"carro, String original: {carro}");
+            //concatenar char afectando la variable original:
+            carro = carro + 'X';
+            Console.WriteLine($"carro, String original: {carro}");
+
+            //concatenar varios char a un String afectando al original
+            String cliente = "Filomeno Colinas";
+            cliente = cliente + 'A' + 'B' + 'C';
+            Console.WriteLine($"cliente (original): {cliente}");
+
+            //pero si va a concatenar varios char, sigue siendo mas practico concantenar
+            //un String con esos char.
+            String estudiante = "Estebancito Maravilla";
+            estudiante = estudiante + "ABC";
+            Console.WriteLine($"estudiante (original): {estudiante}");
+
+            //hay situaciones donde puede tener un char en una variable separada:
+            char equis = 'X';
+            String proveedor = "Kurco Bain";
+            proveedor = proveedor + equis;
+            Console.WriteLine($"proveedor (proveedor): {proveedor}");
+
+            //Que no se recomienda hacer!!!!
+            String mascota = "Firulais";
+            mascota += 'Z'; //eso si se puede, es lo mismo que decir: mascota = mascota + 'Z'
+            Console.WriteLine($"mascota: {mascota}");
+
+            //no concatener varios char usando el operador de incremento:
+            String fruta = "Sandia";
+            fruta += 'Q' + 'W' + 'E'; //esto no funciona bien, suma los valores ASCCI de cada char
+            Console.WriteLine($"fruta: {fruta}");
+
+            String persona = "Gerardo Josue Portillo";
+            /*Ejercicio: genere una nueva variable String que sea una copia de la variable persona;
+             pero reemplace cada espacio en blanco por un guion bajo en la copia, sin utilizar
+            el metodo replace. Imprima la copia.*/
+
         }
     }
 }
