@@ -156,7 +156,37 @@
             /*Ejercicio: genere una nueva variable String que sea una copia de la variable persona;
              pero reemplace cada espacio en blanco por un guion bajo en la copia, sin utilizar
             el metodo replace. Imprima la copia.*/
+            String copia = "";
+            for( int i = 0; i < persona.Length; i++)
+            {
+                if (persona[i] == ' ')
+                    copia = copia + '_';
+                else
+                    copia = copia + persona[i];
+            }
+            Console.WriteLine(copia);
 
+            /*El operador Ternario
+             Retorna el resultado de evaluar una o varias condiciones, dicho resultado
+            puede uno de dos posibles valores:
+            a) el valor a retornar en caso de que se cumplan las condiciones
+            b) el valor a retornar en caso de que NO se cumplan las condiciones
+            -> IMPORTANTE: cada uno de los posibles resultados debe de tener el mismo tipo de dato
+            -> IMPORTTANTE: el operador ternario no se usa para ejecutar codigos, se usa para retornar valores*/
+            //Ejemplo 1:
+            String verdura = "Tomate";
+            Console.WriteLine( ( verdura == "Zanahoria" ? "Es una zanahoria" : "No es una zanahoria" ) );
+
+            //Ejemplo 2: se puede almacenar en una variable el resultado del ternario
+            bool opcion = true;
+            String resultado = (opcion == true ? "Dijo que si" : "Dijo que no");
+            Console.WriteLine( resultado );
+
+            //Ejemplo 3: se puede usar para condicionar el valor a asignar en una variable
+            bool pagaImpuesto = false;
+            float venta = 1000;
+            float pagar = ( pagaImpuesto == true ? venta*1.15f : venta );
+            Console.WriteLine(pagar);
         }
     }
 }
