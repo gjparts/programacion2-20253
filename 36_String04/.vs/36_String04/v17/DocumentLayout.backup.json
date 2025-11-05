@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\36_String04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DECBAE3B-00A7-44DB-9315-C31AE16417BB}|36_String04\\36_String04.csproj|p:\\programas unah\\2025-3\\programacion ii\\36_string04\\36_string04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECBAE3B-00A7-44DB-9315-C31AE16417BB}|36_String04\\36_String04.csproj|solutionrelative:36_string04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion II\\36_String04\\36_String04\\Program.cs",
+              "RelativeDocumentMoniker": "36_String04\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\36_String04\\36_String04\\Program.cs",
+              "RelativeToolTip": "36_String04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:14:56.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

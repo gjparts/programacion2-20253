@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\bin\Debug\net8.0\38_String06.exe
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\bin\Debug\net8.0\38_String06.deps.json
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\bin\Debug\net8.0\38_String06.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\bin\Debug\net8.0\38_String06.dll
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\bin\Debug\net8.0\38_String06.pdb
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.dll
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\refint\38_String06.dll
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.pdb
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\38_String06.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\38_String06\38_String06\obj\Debug\net8.0\ref\38_String06.dll
