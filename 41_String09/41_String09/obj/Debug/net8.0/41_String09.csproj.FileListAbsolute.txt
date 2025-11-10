@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\bin\Debug\net8.0\41_String09.exe
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\bin\Debug\net8.0\41_String09.deps.json
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\bin\Debug\net8.0\41_String09.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\bin\Debug\net8.0\41_String09.dll
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\bin\Debug\net8.0\41_String09.pdb
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.dll
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\refint\41_String09.dll
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.pdb
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\41_String09.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\41_String09\41_String09\obj\Debug\net8.0\ref\41_String09.dll
