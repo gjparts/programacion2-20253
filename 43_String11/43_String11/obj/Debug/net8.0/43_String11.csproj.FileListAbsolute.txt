@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\bin\Debug\net8.0\43_String11.exe
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\bin\Debug\net8.0\43_String11.deps.json
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\bin\Debug\net8.0\43_String11.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\bin\Debug\net8.0\43_String11.dll
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\bin\Debug\net8.0\43_String11.pdb
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.dll
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\refint\43_String11.dll
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.pdb
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\43_String11.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\43_String11\43_String11\obj\Debug\net8.0\ref\43_String11.dll
