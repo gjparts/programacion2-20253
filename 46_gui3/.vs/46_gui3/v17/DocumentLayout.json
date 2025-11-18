@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion II\\46_gui3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B23DA324-7F88-45F8-B2A2-670F508E87AB}|46_gui3\\46_gui3.csproj|p:\\programas unah\\2025-3\\programacion ii\\46_gui3\\46_gui3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23DA324-7F88-45F8-B2A2-670F508E87AB}|46_gui3\\46_gui3.csproj|solutionrelative:46_gui3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23DA324-7F88-45F8-B2A2-670F508E87AB}|46_gui3\\46_gui3.csproj|p:\\programas unah\\2025-3\\programacion ii\\46_gui3\\46_gui3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B23DA324-7F88-45F8-B2A2-670F508E87AB}|46_gui3\\46_gui3.csproj|solutionrelative:46_gui3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion II\\46_gui3\\46_gui3\\Form1.cs",
+              "RelativeDocumentMoniker": "46_gui3\\Form1.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\46_gui3\\46_gui3\\Form1.cs",
+              "RelativeToolTip": "46_gui3\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:19:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion II\\46_gui3\\46_gui3\\Form1.cs",
+              "RelativeDocumentMoniker": "46_gui3\\Form1.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\46_gui3\\46_gui3\\Form1.cs [Design]",
+              "RelativeToolTip": "46_gui3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:13:54.998Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
