@@ -1,0 +1,17 @@
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\bin\Debug\net8.0-windows\49_gui6.exe
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\bin\Debug\net8.0-windows\49_gui6.deps.json
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\bin\Debug\net8.0-windows\49_gui6.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\bin\Debug\net8.0-windows\49_gui6.dll
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\bin\Debug\net8.0-windows\49_gui6.pdb
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\_49_gui6.Form1.resources
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.csproj.GenerateResource.cache
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.dll
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\refint\49_gui6.dll
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.pdb
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\49_gui6.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\49_gui6\49_gui6\obj\Debug\net8.0-windows\ref\49_gui6.dll
