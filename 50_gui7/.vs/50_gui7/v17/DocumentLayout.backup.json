@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|solutionrelative:50_gui7\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|p:\\programas unah\\2025-3\\programacion ii\\50_gui7\\50_gui7\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|P:\\Programas UNAH\\2025-3\\Programacion II\\50_gui7\\50_gui7\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|solutionrelative:50_gui7\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|solutionrelative:50_gui7\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|p:\\programas unah\\2025-3\\programacion ii\\50_gui7\\50_gui7\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|P:\\Programas UNAH\\2025-3\\Programacion II\\50_gui7\\50_gui7\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F1A3A52-6B71-482A-8645-5F8D6F5BE429}|50_gui7\\50_gui7.csproj|solutionrelative:50_gui7\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "50_gui7\\Principal.cs",
               "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\50_gui7\\50_gui7\\Principal.cs",
               "RelativeToolTip": "50_gui7\\Principal.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwFQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T16:32:48.182Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "50_gui7\\Detalle.cs",
               "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\50_gui7\\50_gui7\\Detalle.cs",
               "RelativeToolTip": "50_gui7\\Detalle.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB0AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wB0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T16:27:58.187Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion II\\50_gui7\\50_gui7\\Detalle.cs [Design]",
               "RelativeToolTip": "50_gui7\\Detalle.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:23:57.647Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-20T16:23:57.647Z"
             }
           ]
         }
